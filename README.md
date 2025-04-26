@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Chandan Bhagdiya
 
+<!--
 <img alt="Chandan Bhagdiya's GitHub stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Chandan-2606"/>
 <img alt="Top Langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan-2606&layout=compact"/>
 
 
-<!--
 **Chandan-2606/Chandan-2606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
