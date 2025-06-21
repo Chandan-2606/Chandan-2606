@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Chandan Bhagdiya
+## Hi 👋 I'm Chandan Bhagdiya
 
 <!--
 <img alt="Chandan Bhagdiya's GitHub stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Chandan-2606"/>
